@@ -2,12 +2,19 @@
   <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif?cid=ecf05e4783i2k6vzk1tf3smfbayjytcqgeeqw9g2n584tbyc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kaloyan-badankov-b988a5252/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="mailto:kaloyanbadankov213@gmail.com?subject=Your%20Subject&body=Your%20message">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  <a href="mailto:kaloyanbadankov213@gmail.com?subject=Your%20Subject&body=Your%20message">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+ <a href="https://www.instagram.com/kbadankov/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
 </div>
 
 <h1>
