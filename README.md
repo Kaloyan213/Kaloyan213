@@ -30,7 +30,7 @@ I am a Game Developer from Sofia, Bulgaria.
 
 - :telescope: Contributing to frontend and backend for building video games.
 
-- :seedling: Exploring Technical Horizons.
+- 🚢: Exploring Technical Horizons.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, LeetCode and read tech articles.
 
