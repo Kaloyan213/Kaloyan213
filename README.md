@@ -26,13 +26,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Game Developer from Sofia, Bulgaria.
+I am a Software engineer from Sofia, Bulgaria. Currently working full time for Amusnet.
 
-- :telescope: Contributing to frontend and backend for building video games.
+- :telescope: Contributing to the backend. extending communication protocols between devices, low latency server applications, PostgreSQL, SQLite and many more
 
-- 🚢 Exploring Technical Horizons.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks, LeetCode and read tech articles.
+- :zap: In my free time, I develop a simple (for now) game engine called Sirius.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaloyan-badankov-b988a5252/)
 
